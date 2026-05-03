@@ -1,0 +1,33 @@
+export const lightTheme = {
+  background: "#f5f6f8",
+  surface: "#ffffff",
+  text: "#1a1a1a",
+  muted: "#666",
+  primary: "#2563eb",
+  primaryText: "#ffffff",
+  border: "#e2e4e8",
+  chip: "#eef0f4",
+  chipActive: "#2563eb",
+  chipText: "#1a1a1a",
+  chipActiveText: "#ffffff",
+  badgeNew: "#16a34a",
+  badgePopular: "#f59e0b",
+  favorite: "#ef4444",
+};
+
+export const darkTheme = {
+  background: "#0f1115",
+  surface: "#1a1d23",
+  text: "#f5f6f8",
+  muted: "#a0a4ad",
+  primary: "#60a5fa",
+  primaryText: "#0f1115",
+  border: "#2a2e36",
+  chip: "#23272f",
+  chipActive: "#60a5fa",
+  chipText: "#f5f6f8",
+  chipActiveText: "#0f1115",
+  badgeNew: "#22c55e",
+  badgePopular: "#fbbf24",
+  favorite: "#f87171",
+};

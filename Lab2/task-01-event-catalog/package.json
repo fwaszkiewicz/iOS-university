@@ -1,0 +1,14 @@
+{
+  "name": "event-catalog",
+  "version": "1.0.0",
+  "description": "Lab 2 — Task 1: Event catalog with reusable components, search and category filtering.",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "^50.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  },
+  "scripts": {
+    "start": "expo start"
+  }
+}
