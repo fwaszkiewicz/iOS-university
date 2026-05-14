@@ -1,0 +1,16 @@
+{
+  "name": "weather-location",
+  "version": "1.0.0",
+  "description": "Lab 4 — Task 1: Current weather and 24h hourly forecast based on device GPS location (Open-Meteo API).",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "^50.0.0",
+    "expo-location": "~16.5.5",
+    "expo-sqlite": "~13.4.0",
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  },
+  "scripts": {
+    "start": "expo start"
+  }
+}
